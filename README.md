@@ -4,6 +4,15 @@ This project implements a classic **Snake Game** enhanced with **Q-Learning**, a
 
 ---
 
+## ⚙️Dependencies
+
+-gym
+-numpy
+-matplotlib
+-pygame
+
+---
+
 ## 🎮 Game Overview
 
 - Grid-based snake game built using **Pygame**
